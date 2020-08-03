@@ -1,5 +1,6 @@
 # Alta-Online-Learning (FrontEnd)
-**Alta Online Learning** is an online learning platform, where users can learn various technologies. This project is inspired by popular learning platforms like Coursera, Udemy, SkillShare, etc.
+**Alta Online Learning** is an online learning platform, where users can learn various technologies. This project is inspired by popular learning platforms like Coursera, Udemy, SkillShare, etc. You can click [This Link](http://alta-learning.vercel.app/) to check out our project.
+
 
 <p align="center">
   :two_hearts::two_hearts: My beloved Team :two_hearts::two_hearts:
@@ -13,7 +14,9 @@
   Aji :boy:, Aisyah :girl:, Agus :boy:, Yopi :boy:
 </p>
 
-**Developer:**
+
+
+**Developers:**
 
 1. [Agus Dwi Sasongko](https://github.com/agusdwis),
 2. [Ahmad Aji Pangestu](https://github.com/ahmadajip55),
@@ -21,7 +24,16 @@
 4. [Yopi Ragil Permana P](https://github.com/YopiRagil).
 
 
-**Technology Stack:**
+**Features:**
+- Login
+- Register
+- Take Altatest
+- Register Course
+- Gradual Learning System (Phase -> Module -> Subject)
+- Take Subject Quiz
+- Get Certificate
+
+**Technology Stacks:**
 - BackEnd
   - Python (Flask)
   - MySQL
@@ -46,3 +58,10 @@
   - Git
   - Trello
   - (also) Scrum
+  
+**Deployement:**
+- BackEnd
+  - Amazon Web Service
+  
+- FrontEnd
+  - Vercel
