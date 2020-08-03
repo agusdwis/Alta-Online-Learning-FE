@@ -22,26 +22,27 @@
 
 
 **Technology Stack:**
-1. BackEnd
+- BackEnd
   - Python (Flask)
   - MySQL
   - RESTFul API
   
-2. FrontEnd
+- FrontEnd
   - React (Next Js)
   - HTML5
   - CSS3
   - Material UI
   
-3. Deployment
+- Deployment
   - AWS S3 (Storage)
   - AWS EC2 (Instance)
   - AWS RDS (Database)
   - Travis CI
   - Docker
   - CloudFlare
+  - Vercel
   
-4. Collaboration
+- Collaboration
   - Git
   - Trello
-  - Scrum
+  - (also) Scrum
